@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: python-env
+Version: 0.0.1
+Summary: HP Helion Cloud Sample Python WSGI App
+Home-page: https://github.com/hpcloud/python-env
+Author: John Hopper
+Author-email: john.hopper@hp.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Other Environment
+Classifier: Natural Language :: English
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Topic :: Internet
+Classifier: Topic :: Utilities

@@ -1,0 +1,9 @@
+applications:
+- name: python-env-github
+  buildpack: https://github.com/cloudfoundry/python-buildpack
+  memory: 32M
+  stack: cflinuxfs2
+  services:
+   # New Relic Standard Plan
+   - newrelic-std 
+
